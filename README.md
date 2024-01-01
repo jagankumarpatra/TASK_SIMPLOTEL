@@ -11,6 +11,6 @@ Page 2
 
 u can also check the hosted website one
 
-https://simploteltaskjagankumarpatra.netlify.app/
+https://6591a893522574313a4b04ac--curious-longma-5874e9.netlify.app/
 
 its fully responsive
